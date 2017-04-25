@@ -1,6 +1,6 @@
 # npmdoc-ember-moment
 
-#### api documentation for  [ember-moment (v7.3.0)](https://github.com/stefanpenner/ember-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-moment)
+#### basic api documentation for  [ember-moment (v7.3.0)](https://github.com/stefanpenner/ember-moment#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-moment.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-moment) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-moment.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-moment)
 
 #### Moment.js template helpers and computed property macros for Ember
 
@@ -107,7 +107,8 @@
         "start": "ember server",
         "test": "ember try:each"
     },
-    "version": "7.3.0"
+    "version": "7.3.0",
+    "bin": {}
 }
 ```
 
